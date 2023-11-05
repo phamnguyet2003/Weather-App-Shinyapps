@@ -64,4 +64,5 @@ Go to [app.R](app.R) and see the functions which I built carefully:
 You can explore more by yourself!!!
 
 *Thanks for reading!!! Have a nice day!!!*
+
 *Author: [Pham Nguyet](https://github.com/phamnguyet2003)*

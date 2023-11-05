@@ -9,10 +9,10 @@
 ### Steps to use the app:
 - Find the location you want to view on the map and use the mouse to hover over it.
 - In the tab named 'Weather,' it will display weather information at that location, including: Location, Humidity, Temperature, Feels Like, Weather Condition, Visibility, Wind Speed.
-- 
+  
 ![Alt text](images//image1.png)
 - In the 'Forecast' tab, a Line chart will display the weather forecast for the selected location for the next 5 days, including information about temperature (temp), feels_like, temp_min, temp_max, pressure, sea_level, grnd_level (ground level), humidity, speed, deg, gust.
-- 
+  
 ![Alt text](images//image2.png)
 
 ### Step 1: Get API Keys for Weather information

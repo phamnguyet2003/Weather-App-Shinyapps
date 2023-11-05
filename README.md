@@ -29,7 +29,7 @@ Go to [app.R](app.R) and see the functions which I built carefully:
 - **ui**: to set up the UI for your app. It contains 2 tabnames: Weather & Forecast.
 - **server**: process the logic to display your app.
 
-*If you want to test your app in localhost, you can click on RunApp (recommend choose Run in Viewer Panel mode)*
+*If you want to test your app in localhost, you can click on RunApp (recommend choose Run in Viewer Pane mode)*
 
 ![Alt text](images//run_in_viewer_panel.png)
 

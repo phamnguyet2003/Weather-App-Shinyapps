@@ -65,4 +65,6 @@ You can explore more by yourself!!!
 
 *Thanks for reading!!! Have a nice day!!!*
 
-*Author: [Pham Nguyet](https://github.com/phamnguyet2003)*
+*Other (sources)[https://shiny.posit.co/r/articles/share/shinyapps/] you can refer to*
+
+Author: **[Pham Nguyet](https://github.com/phamnguyet2003)**
